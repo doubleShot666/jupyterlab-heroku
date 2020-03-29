@@ -7,3 +7,4 @@ setup(name='kernel',
       packages=[''],
       package_data={'': ['kernel.cpython-35m-x86_64-linux-gnu.so']},
 )
+
